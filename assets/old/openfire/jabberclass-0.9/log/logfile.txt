@@ -1,0 +1,8 @@
+connecting: 192.168.1.151:9090 5222 15
+SEND: <?xml version='1.0' encoding='UTF-8' ?>
+
+SEND: <stream:stream to='192.168.1.151:9090' xmlns='jabber:client' xmlns:stream='http://etherx.jabber.org/streams'>
+
+SEND:  
+Calling handler: terminated
+SEND: </stream:stream>

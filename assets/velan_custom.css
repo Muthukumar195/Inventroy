@@ -1,0 +1,13 @@
+.ui-pnotify.dark {
+	display:none !important;
+}
+.paginate_button{
+	cursor : default;
+}
+
+	.error_msg {
+		color:red !important;
+	}
+	.required{
+		color:red !important;
+	}
